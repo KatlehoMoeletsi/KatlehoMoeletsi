@@ -14,7 +14,7 @@
 - **Frameworks & Libraries**: Angular, Ionic,  Node.js, Express
 - **Tools**: Git, Docker, VS Code
     📚 Currently  starting out with learning React, ASP.net .
-   [https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/blob/main/200w.gif]
+  (https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/blob/main/200w.gif)
 ### 
 ![Profile Views](https://komarev.com/ghpvc/?username=KatlehoMoeletsi&color=blue)
 

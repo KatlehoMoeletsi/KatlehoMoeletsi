@@ -5,9 +5,9 @@
 ## About Me
 - 🌟 Software Engineer passionate about the end product.
 - High key Interested in IT business analysis.
-- <div align="right">
+
    ![Welcome GIF](https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/raw/main/200w.gif)
- </div>
+
 ### Skills
 
 - **Languages**: Java, JavaScript, C++, C#, Python.

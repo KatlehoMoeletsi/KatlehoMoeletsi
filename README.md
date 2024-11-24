@@ -4,7 +4,7 @@
 
 ## About Me
 - 🌟 Software Engineer passionate about the end product.
-- High key Interested in IT business analysis.
+- High key Interested in IT business analysis as well .
 <img align="right" alt="Coding" width="200" src="https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/raw/main/200w.gif">
 
 
@@ -14,5 +14,5 @@
 - **Languages**: Java, JavaScript, C++, C#, Python.
 - **Frameworks & Libraries**: Angular, Ionic, Node.js, Express.
 - **Tools**: Git, Docker, VS Code.
- - 📚 Currently starting out with learning React, ASP.net.
+-  📚 Currently starting out with learning React, ASP.net 
 

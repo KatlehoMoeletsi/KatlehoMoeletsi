@@ -9,6 +9,8 @@
    ![Welcome GIF](https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/raw/main/200w.gif)
 
 </div>
+
+
 ### Skills
 
 - **Languages**: Java, JavaScript, C++, C#, Python.

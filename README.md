@@ -9,6 +9,7 @@
 
 
 ### Skills
+
 - **Languages**: Java, JavaScript, C++, C#,Python. 
 - **Frameworks & Libraries**: Angular, Ionic,  Node.js, Express
 - **Tools**: Git, Docker, VS Code

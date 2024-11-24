@@ -16,7 +16,8 @@
     📚 Currently  starting out with learning React, ASP.net .
   (https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/blob/main/200w.gif)
 ### 
-![Profile Views](https://komarev.com/ghpvc/?username=KatlehoMoeletsi&color=blue)
+![My GIF](https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/raw/main/200w.gif)
+
 
 
 

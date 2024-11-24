@@ -16,3 +16,11 @@
 - **Tools**: Git, Docker, VS Code.
 -  📚 Currently starting out with learning React, ASP.net 
 
+### My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatlehoMoeletsi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KatlehoMoeletsi&theme=radical)
+
+### My Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatlehoMoeletsi&layout=compact&theme=radical)

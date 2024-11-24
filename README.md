@@ -5,7 +5,7 @@
 ## About Me
 - 🌟 Software Engineer passionate about the end product.
 - High key Interested in IT business analysis.
-<img align="right" alt="Coding" width="400" src="https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/raw/main/200w.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/KatlehoMoeletsi/KatlehoMoeletsi/raw/main/200w.gif">
 
 
 
